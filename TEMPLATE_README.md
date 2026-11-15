@@ -4,6 +4,8 @@
 
 MantisBT is an open-source issue tracker with projects, roles, workflows, custom fields, email notifications, and reporting. This template deploys stable 2.28.4 with generated credentials and private MariaDB.
 
+This maintenance release pins Caddy 2.11.9. MantisBT 2.28.4 and MariaDB 13.0.2 remain unchanged; this is not a database-major upgrade.
+
 Sign in as `administrator` with `MANTIS_ADMIN_PASSWORD`.
 
 ## Common Use Cases
